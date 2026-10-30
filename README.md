@@ -124,6 +124,10 @@ else:
     balance = ftot - paym
     print(f"Insufficient Balance.")
 
+     print(f"Balance : {balance:.2f}")
+print("\n----------THANKYOU FOR YOUR PURCHASE----------")
+
+
 
 
 
@@ -453,5 +457,4 @@ elif choice == "20":
 else:
     print("Invalid choice! Please select from 1 to 20.")
 
-    print(f"Balance : {balance:.2f}")
-print("\n----------THANKYOU FOR YOUR PURCHASE----------")
+   
