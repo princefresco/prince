@@ -1293,8 +1293,8 @@ elif choice == "14":
     print(" ")
     print("OUTPUT:")
     print(" ")
-    print("Enter name: Alex")
-    print("Hello Alex")
+    print("Enter name: Prince")
+    print("Hello Prince")
 
 elif choice == "15":
     print(" ")
@@ -1417,14 +1417,6 @@ elif choice == "20":
 
 else:
     print("Invalid choice! Please select from 1 to 20.")
-
-
-
-
-
-
-
-
 
 
 
